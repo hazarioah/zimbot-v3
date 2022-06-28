@@ -23,7 +23,8 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/hazarioah/zimbot-v3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=
+github.com/hazarioah/zimbot-v3)
 
 ## BUILD PACKS
 
